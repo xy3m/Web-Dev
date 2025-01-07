@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    background-image: url(shutterstock_631736717.jpg);
+    height: 200px;
+    /* background-repeat: no-repeat; */
+    text-align: left;
+    background-size: 500px;
+}
+p {
+    background-color: crimson;
+    border: 10px solid greenyellow;
+    border-radius: 10px;
+    box-shadow: 20px;
+}
+li {
+    display: inline;
+}
+span {
+    display: block;
+}
