@@ -21,3 +21,13 @@ li {
 span {
     display: block;
 }
+div {
+    background-image: url(capitalism_vs_communism.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    
+}
+h3 {
+    border: 20px solid gray;
+    background-color: beige;
+}
